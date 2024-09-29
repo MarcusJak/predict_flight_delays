@@ -2,6 +2,8 @@
 
 The **Flight Delay Predictor** is a data-intensive project designed to predict flight delays at U.S. airports. By using Apache Spark for data processing and advanced machine learning algorithms, this project aims to determine whether a flight will be delayed by more than 15 minutes, based on historical data.
 
+![image](https://github.com/user-attachments/assets/1988f993-b8ce-40d4-b12a-20b98c07d8aa)
+
 ## Project Overview
 
 The goal of this project is to predict if a flight delay will exceed 15 minutes using 21 attributes, including time, carrier, and airport details. We employ a **Logistic Regression model** to achieve accurate predictions and provide insightful visualizations to understand flight delay patterns.
